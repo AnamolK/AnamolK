@@ -2,7 +2,7 @@
 - 👀 I’m interested in Neural Networks, Machine Learning, Computer Vision, Mobile App Dev
 - 🌱 I’m currently learning Vision ML Integration
 - 💞️ I’m looking to collaborate on Computer Vision Projects
-- 📫 How to reach me ...
+
 
 
 <!---
